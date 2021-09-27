@@ -110,11 +110,12 @@ article
     /*Pies*/
 .pie 
 {
-width: 200px;
+width: 300px;
 padding: 10px;
 margin: 10px;
 background-color: #fff;
 border: solid 1px #ccc;
+border-radius: 6px;
 
 }
 
@@ -146,6 +147,7 @@ border: solid 1px #ccc;
 {
 background-color: cornflowerblue;
 padding: 10px;
+width: 100%;
 border: cornflowerblue;
 border-radius: 3px;
 color: rgb(255, 255, 255);
@@ -161,7 +163,9 @@ color: rgb(255, 255, 255);
     font-size: 1.5em;
     padding: 10px;
 }
-  
+  .desc
+  {
+      text-align: center;  }
 
 
 
