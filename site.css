@@ -134,19 +134,23 @@ border: solid 1px #ccc;
 .pie .price
 {
     text-align: right;
+    font-weight: bold;
 }
 .pie .columns div
 {
-    width: 50%;
+    width: 100%;
 }
 
 .pie button
 
-    h1
-    {
-        font-size: 3em;
-        margin-top: 0.5em;
-    }
+{
+background-color: cornflowerblue;
+padding: 10px;
+border: cornflowerblue;
+border-radius: 3px;
+color: cornsilk;
+
+}
 .banner
 {
     max-width: 100%;
@@ -157,7 +161,7 @@ border: solid 1px #ccc;
     font-size: 1.5em;
     padding: 10px;
 }
-    
+  
 
 
 
